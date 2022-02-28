@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhumita Saha
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front end development and DSA.
+- 👀 I’m a Software Developer
+- 🌱 I’m currently learning Javascript, Node JS and DSA.
 - 💞️ I’m looking to collaborate on small scale projects.
 - 📫 How to reach me https://www.linkedin.com/in/msaha2245/, msaha2245@gmail.com
 
